@@ -1,0 +1,98 @@
+ID,Name,Type,Event_Name,Date
+1,September 11 Attacks (9/11),Attack,9/11 Attacks,2001-09-11
+2,War in Afghanistan,War,Afghanistan War,2001-2021
+3,Iraq War,War,Iraq War,2003-2011
+4,Syrian Civil War,War,Syrian Conflict,2011-ongoing
+5,Libyan Civil War,War,Libyan Civil Conflict,2011-2020
+6,Boko Haram,Organization,Boko Haram Insurgency,2009-ongoing
+7,Al-Qaeda,Organization,Al-Qaeda Operations,1988-present
+8,ISIS/ISIL,Organization,ISIS Activities,1999-present
+9,Osama Bin Laden,Person,Al-Qaeda Leadership,1988-2011
+10,Bashar al-Assad,Person,Assad's Regime,2011-ongoing
+11,Vladimir Putin,Person,Russia vs Ukraine,2000-present
+12,George W. Bush,Person,Iraq War,2001-2009
+13,Russia-Ukraine War,War,Ukraine Conflict,2022-ongoing
+14,Volodymyr Zelenskyy,Person,Ukraine Conflict,2019-present
+15,Russian Armed Forces,Organization,Russian Military,1992-present
+16,Ukrainian Armed Forces,Organization,Ukrainian Defense,1991-present
+17,Gaza-Israel Conflict,War,Gaza Conflict,2008-ongoing
+18,Hezbollah,Organization,Hezbollah Operations,1985-present
+19,Hamas,Organization,Hamas Activities,1987-present
+20,Taliban,Organization,Taliban Rule,1994-present
+21,Barack Obama,Person,Obama Administration,2009-2017
+22,Donald Trump,Person,Trump Nuclear Tensions,2017-2021
+23,Kim Jong-un,Person,North Korea Leadership,2011-present
+24,North Korean Nuclear Crisis,War,North Korean Tensions,2006-ongoing
+25,Yemeni Civil War,War,Yemeni Conflict,2014-ongoing
+26,Saudi-Led Coalition in Yemen,Organization,Saudi Coalition,2015-present
+27,Houthi Movement,Organization,Houthi Activities,2004-present
+28,Paris Attacks,Attack,Paris Terror Attacks,2015-11-13
+29,Charlie Hebdo Attack,Attack,Charlie Hebdo Shooting,2015-01-07
+30,Boko Haram Insurgency,War,Boko Haram Insurgency,2009-ongoing
+32,Arab Spring,War,Arab Spring Uprisings,2010-2012
+33,ISIS Paris Bombings,Attack,Paris ISIS Attacks,2015-11-13
+34,U.S. Capitol Riot,Attack,Capitol Riot,2021-01-06
+35,Saudi Arabia-Iran Proxy Conflict,War,Saudi-Iran Proxy Conflict,2001-present
+36,Rodrigo Duterte,Person,Duterte's War on Drugs,2016-2022
+37,Islamic Revolutionary Guard Corps,Organization,IRGC Activities,1979-present
+38,Sudanese Civil War,War,Sudanese Conflict,2013-ongoing
+39,Ethiopian Civil Conflict,War,Ethiopian Internal Conflict,2020-2022
+40,Kashmir Conflict,War,Kashmir Territorial Dispute,1947-ongoing
+41,World War I,War,Great War,1914-1918
+42,World War II,War,Second World War,1939-1945
+43,Battle of Stalingrad,War,Stalingrad Campaign,1942-1943
+44,Gulf War,War,Gulf War,1990-1991
+45,Rwandan Genocide,War,Rwandan Genocide,1994
+46,Bosnia War,War,Bosnian War,1992-1995
+47,Chechen Wars,War,Chechen Conflict,1994-2009
+48,Kosovo War,War,Kosovo Conflict,1998-1999
+49,FARC,Organization,FARC Insurgency,1964-present
+50,Taliban Offensive,War,Taliban Resurgence,2015-2021
+51,Al-Shabaab,Organization,Al-Shabaab Insurgency,2006-present
+52,Northern Ireland Conflict,War,The Troubles,1968-1998
+53,Spanish Civil War,War,Spanish Civil War,1936-1939
+54,Armenian Genocide,War,Armenian Genocide,1915-1923
+55,Khmer Rouge,Organization,Khmer Rouge Regime,1975-1979
+56,Boko Haram Attacks,Attack,Boko Haram Terrorist Attacks,2014-present
+57,Boston Marathon Bombing,Attack,Boston Bombing,2013-04-15
+58,Oklahoma City Bombing,Attack,Oklahoma City Bombing,1995-04-19
+59,Munich Massacre,Attack,Munich Olympics Attack,1972
+60,2011 Norway Attacks,Attack,Norway Terror Attacks,2011-07-22
+61,Mumbai Attacks,Attack,2008 Mumbai Terror Attacks,2008-11-26
+62,2015 Tunis Bardo Museum Attack,Attack,Bardo Museum Shooting,2015-03-18
+63,Oklahoma Bombing,Attack,Oklahoma City Bombing,1995-04-19
+64,Christchurch Mosque Shooting,Attack,Christchurch Shooting,2019-03-15
+65,2017 Las Vegas Shooting,Attack,Las Vegas Shooting,2017-10-01
+66,Attack on Pearl Harbor,Attack,Pearl Harbor Attack,1941-12-07
+67,Madrid Train Bombings,Attack,Madrid Train Attacks,2004-03-11
+68,2016 Brussels Bombings,Attack,Brussels Airport Bombing,2016-03-22
+69,2019 Sri Lanka Bombings,Attack,Sri Lanka Easter Bombings,2019-04-21
+70,1972 Munich Olympics,Attack,Munich Olympics Massacre,1972-09-05
+71,1983 Beirut Barracks Bombing,Attack,Beirut Barracks Bombing,1983-10-23
+73,The Great Chinese Famine,War,Chinese Famine,1959-1961
+74,The Vietnam War,War,Vietnam War,1955-1975
+75,Second Congo War,War,Great African War,1998-2003
+76,War in Darfur,War,Darfur Conflict,2003-ongoing
+77,Conflict in South Sudan,War,South Sudan Civil War,2013-ongoing
+78,Mexican Drug War,War,Mexican Drug War,2006-present
+79,Lord's Resistance Army,Organization,LRA Insurgency,1987-present
+81,PKK,Organization,PKK Insurgency,1984-present
+82,Al-Nusra Front,Organization,Al-Nusra Activities,2012-present
+83,Hezbollah War,War,2006 Lebanon War,2006
+84,Iran-Iraq War,War,Iran-Iraq War,1980-1988
+85,Operation Enduring Freedom,War,Afghanistan Operation,2001-2014
+86,War in Iraq,War,Iraq War,2003-2011
+87,Operation Iraqi Freedom,War,Iraq Conflict,2003-2011
+88,Central African Republic Conflict,War,CAR Civil War,2012-present
+89,Syrian Civil Conflict,War,Syrian Conflict,2011-present
+90,1979 Iranian Revolution,War,Iranian Revolution,1979
+91,Khmer Rouge Genocide,War,Cambodian Genocide,1975-1979
+92,Myanmar Civil War,War,Myanmar Conflict,2021-present
+93,Somali Civil War,War,Somali Conflict,1991-present
+94,Boko Haram Conflict,War,Boko Haram Insurgency,2009-present
+95,War on Terror,War,Global War on Terror,2001-present
+96,Nigerian Civil War,War,Nigerian Civil War,1967-1970
+97,American Civil War,War,Civil War,1861-1865
+98,Franco-Prussian War,War,Franco-Prussian War,1870-1871
+99,Spanish-American War,War,Spanish-American War,1898
+100,Boer Wars,War,Boer Wars,1880-1902
