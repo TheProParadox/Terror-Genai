@@ -1,0 +1,8 @@
+Using the row from the provided JSON FILE, which lists specific events, historical figures, and associated terminology, generate three detailed large prompts for creating images related to the theme of "{row['Topic']}". Each prompt should visualize real-world scenes associated with negative things like warfare, conflict, or socio-political tension, focusing on realistic settings, equipment, and environments. The prompts must be long to capture every detail about scene and ensure it is real life. Emphasize elements such as equipment, visual deception, propaganda, and the complexities of conflict environments to highlight their impact on public perception and emotions. The visual narrative should be compelling and research-oriented, aiming to describe {row['Description']}.
+Input -
+{chunk}
+
+
+The output should be a json in this format
+{json_output}
+Each prompt must be distinct, focusing on different aspects and scenes related to the theme.
