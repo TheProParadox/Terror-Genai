@@ -4,8 +4,8 @@ Extremist Content"
 # Usage
 ### Installation
 ```
-conda create -n MMJ-Bench python=3.10
-conda create MMJ-Bench
+conda create -n extremeaigc python=3.10
+conda create extremeaigc
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
