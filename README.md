@@ -21,13 +21,9 @@ In the first step, jailbreak attack techniques are used to generate test cases w
 ### Step 2 - Generate Completions
 After generating test cases ， we can generate completions for a target model with or without defense techniques.
 
-Without defense methods: 
+with jaibreaking: 
 ```
 ./scripts/generate_completions.sh $model_name $behaviors_path $test_cases_path $save_path $max_new_tokens $incremental_update
-```
-With defense methods.
-```
-./scripts/generate_completions_defense.sh $attack_type $target_model $defense_type
 ```
 
 ### Step 3 - Evaluate Completions
